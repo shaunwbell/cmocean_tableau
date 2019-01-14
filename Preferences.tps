@@ -398,5 +398,105 @@
 			<color>#2F2721</color>
 			<color>#221F1B</color>
 		</color-palette>
+		<color-palette name="cmocean_rain" type="ordered-sequential" >
+			<color>#221B38</color>
+			<color>#221E3A</color>
+			<color>#242943</color>
+			<color>#25354C</color>
+			<color>#234056</color>
+			<color>#1E4B5F</color>
+			<color>#155766</color>
+			<color>#09626B</color>
+			<color>#036D6D</color>
+			<color>#09786E</color>
+			<color>#1B826E</color>
+			<color>#348B6D</color>
+			<color>#4F936E</color>
+			<color>#679A72</color>
+			<color>#7EA177</color>
+			<color>#93A87E</color>
+			<color>#A8AE85</color>
+			<color>#BCB58D</color>
+			<color>#CFBC9C</color>
+			<color>#D8C7B4</color>
+			<color>#DED4CB</color>
+			<color>#E5E1E0</color>
+			<color>#EEEDF3</color>
+		</color-palette>
+		<color-palette name="cmocean_tarn" type="ordered-sequential" >
+			<color>#101E4F</color>
+			<color>#0E2456</color>
+			<color>#0C3C63</color>
+			<color>#17536B</color>
+			<color>#1E6976</color>
+			<color>#2E7E7E</color>
+			<color>#549185</color>
+			<color>#79A28F</color>
+			<color>#9CB59A</color>
+			<color>#C1C8A6</color>
+			<color>#E3DBC2</color>
+			<color>#F9F4ED</color>
+			<color>#F7EAE2</color>
+			<color>#E9CDB8</color>
+			<color>#DDB18E</color>
+			<color>#D29664</color>
+			<color>#C17F3C</color>
+			<color>#9E732D</color>
+			<color>#7B6722</color>
+			<color>#5A5918</color>
+			<color>#394B0C</color>
+			<color>#263810</color>
+			<color>#17230E</color>
+		</color-palette>
+		<color-palette name="cmocean_topo" type="ordered-diverging" >
+			<color>#F9FDE4</color>
+			<color>#F4F6D9</color>
+			<color>#E4DAAE</color>
+			<color>#D6BF84</color>
+			<color>#CAA55A</color>
+			<color>#B3913F</color>
+			<color>#918140</color>
+			<color>#71723D</color>
+			<color>#516333</color>
+			<color>#305520</color>
+			<color>#1B411D</color>
+			<color>#112C17</color>
+			<color>#DFF2BB</color>
+			<color>#ACE1A8</color>
+			<color>#7ACEA3</color>
+			<color>#5BB8A4</color>
+			<color>#4E9FA1</color>
+			<color>#46879C</color>
+			<color>#3F6F97</color>
+			<color>#3E5691</color>
+			<color>#413E76</color>
+			<color>#372C4F</color>
+			<color>#281A2C</color>
+		</color-palette>
+		<color-palette name="cmocean_diff" type="ordered-diverging" >
+			<color>#1C2207</color>
+			<color>#222709</color>
+			<color>#383914</color>
+			<color>#4F4A1D</color>
+			<color>#675A29</color>
+			<color>#7A6D41</color>
+			<color>#8D805B</color>
+			<color>#A09576</color>
+			<color>#B3AA93</color>
+			<color>#C8C1B0</color>
+			<color>#DFD9CF</color>
+			<color>#F3EEEB</color>
+			<color>#EEECEC</color>
+			<color>#D4D6D9</color>
+			<color>#B9BFC5</color>
+			<color>#9EAAB3</color>
+			<color>#8596A2</color>
+			<color>#6C8292</color>
+			<color>#537084</color>
+			<color>#3A5E76</color>
+			<color>#1F4C69</color>
+			<color>#123756</color>
+			<color>#082340</color>
+		</color-palette>		
 	</preferences>
 </workbook>
